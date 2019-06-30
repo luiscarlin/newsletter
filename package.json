@@ -1,0 +1,12 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luiscarlin/newsletter.git",
+  "author": "Luis Carlin <luiscarlin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
